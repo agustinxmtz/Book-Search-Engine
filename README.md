@@ -2,7 +2,7 @@
 
 
 ## **Description**
-My task was to convert the existing RESTful API to a GraphQL API built with Apollo Server.
+An application to Search for books and be able to save them into your account. 
 
 
 ## **Table of Contents**
